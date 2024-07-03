@@ -1,0 +1,15 @@
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\bin\Debug\net8.0\LINQ-DB.exe
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\bin\Debug\net8.0\LINQ-DB.deps.json
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\bin\Debug\net8.0\LINQ-DB.runtimeconfig.json
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\bin\Debug\net8.0\LINQ-DB.dll
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\bin\Debug\net8.0\LINQ-DB.pdb
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.AssemblyInfoInputs.cache
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.AssemblyInfo.cs
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.csproj.CoreCompileInputs.cache
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.sourcelink.json
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.dll
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\refint\LINQ-DB.dll
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.pdb
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\LINQ-DB.genruntimeconfig.cache
+C:\Users\dania.afridi\Lexicon\DB-LINQ\LINQ-Exercise-Week27\LINQ-DB\obj\Debug\net8.0\ref\LINQ-DB.dll
